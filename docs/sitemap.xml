@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://example.com/</loc>
+        <loc>https://nurmohammed840.github.io/</loc>
     </url>
     <url>
-        <loc>https://example.com/about/</loc>
+        <loc>https://nurmohammed840.github.io/about/</loc>
     </url>
     <url>
-        <loc>https://example.com/categories/</loc>
+        <loc>https://nurmohammed840.github.io/categories/</loc>
     </url>
     <url>
-        <loc>https://example.com/categories/rust/</loc>
+        <loc>https://nurmohammed840.github.io/categories/rust/</loc>
     </url>
     <url>
-        <loc>https://example.com/posts/</loc>
+        <loc>https://nurmohammed840.github.io/posts/</loc>
     </url>
     <url>
-        <loc>https://example.com/posts/announcing-nio/</loc>
+        <loc>https://nurmohammed840.github.io/posts/announcing-nio/</loc>
         <lastmod>2024-11-24</lastmod>
     </url>
     <url>
-        <loc>https://example.com/projects/</loc>
+        <loc>https://nurmohammed840.github.io/projects/</loc>
     </url>
     <url>
-        <loc>https://example.com/tags/</loc>
+        <loc>https://nurmohammed840.github.io/tags/</loc>
     </url>
     <url>
-        <loc>https://example.com/tags/async/</loc>
+        <loc>https://nurmohammed840.github.io/tags/async/</loc>
     </url>
     <url>
-        <loc>https://example.com/tags/io/</loc>
+        <loc>https://nurmohammed840.github.io/tags/io/</loc>
     </url>
     <url>
-        <loc>https://example.com/tags/runtime/</loc>
+        <loc>https://nurmohammed840.github.io/tags/runtime/</loc>
     </url>
     <url>
-        <loc>https://example.com/tags/scheduler/</loc>
+        <loc>https://nurmohammed840.github.io/tags/scheduler/</loc>
     </url>
 </urlset>
