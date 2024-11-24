@@ -1,0 +1,69 @@
+[[project]]
+name = "nio"
+desc = "An async runtime for Rust"
+tags = ["async", "runtime", "io", "scheduler"]
+links = [
+    {name = "src", url = "https://github.com/nurmohammed840/nio"},
+]
+
+[[project]]
+name = "async-gen"
+desc = "Async generator in stable rust"
+tags = ["async"]
+links = [
+    {name = "docs", url = "https://docs.rs/async-gen/latest/async_gen/"},
+    {name = "src", url = "https://github.com/nurmohammed840/async-gen"},
+]
+
+[[project]]
+name = "quote2"
+desc = "An alternative lightweight version of [quote](https://github.com/dtolnay/quote)"
+tags = ["proc-macro"]
+links = [
+    {name = "src", url = "https://github.com/nurmohammed840/quote2"},
+]
+
+[[project]]
+name = "databuf"
+desc = "Structured data serialization library in binary format"
+tags = ["encoder"]
+links = [
+    {name = "docs", url = "https://docs.rs/databuf/latest/databuf/"},
+    {name = "src", url = "https://github.com/nurmohammed840/databuf.rs"},
+]
+
+[[project]]
+name = "websocket"
+desc = "Fastest websocket implementation for both client and server"
+tags = ["websocket", "protocol"]
+links = [
+    {name = "docs", url = "https://docs.rs/web-socket/latest/web_socket/"},
+    {name = "src", url = "https://github.com/nurmohammed840/websocket.rs"},
+]
+
+[[project]]
+name = "web-socket-io"
+desc = "An event-driven library for real-time web applications, similar to [Socket.IO](https://socket.io/)"
+tags = ["websocket", "framework"]
+links = [
+    {name = "website", url = "https://nurmohammed840.github.io/web-socket-io/"},
+    {name = "docs", url = "https://docs.rs/web-socket-io/latest/web_socket_io/"},
+    {name = "src", url = "https://github.com/nurmohammed840/web-socket-io"},
+]
+
+[[project]]
+name = "fRPC"
+desc = "Remote Procedure Call framework for Rust"
+tags = ["rpc", "framework"]
+links = [
+    {name = "src", url = "https://github.com/nurmohammed840/frpc"},
+]
+
+[[project]]
+name = "tftp"
+desc = "Implementation of Trivial File Transfer Protocol"
+tags = ["protocol"]
+links = [
+    {name = "docs", url = "https://nurmohammed840.github.io/tftp.rs/"},
+    {name = "src", url = "https://github.com/nurmohammed840/tftp.rs"},
+]

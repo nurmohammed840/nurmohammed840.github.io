@@ -1,0 +1,91 @@
+base_url = "https://example.com"
+title = "Nur"
+description = "Where I serve my uncooked thoughts"
+default_language = "en"
+theme = "serene"
+output_dir = "public"
+compile_sass = true
+minify_html = true
+build_search_index = false
+generate_feeds = false
+feed_filenames = ["feed.xml"]
+taxonomies = [{ name = "tags" }, { name = "categories" }]
+
+[markdown]
+highlight_code = true
+highlight_theme = "css"
+extra_syntaxes_and_themes = ["highlight_themes"]
+highlight_themes_css = [
+  { theme = "serene-light", filename = "hl-light.css" },
+  { theme = "serene-dark", filename = "hl-dark.css" },
+]
+render_emoji = false
+external_links_target_blank = false
+external_links_no_follow = true
+external_links_no_referrer = true
+smart_punctuation = false
+
+[slugify]
+paths = "on"
+taxonomies = "on"
+anchors = "on"
+
+#=========================================================================================
+
+[extra]
+name = "Nur Mohammed"
+id = "Home"
+avatar = "img/avatar.jpg"
+bio = "Welcome to my little corner of the web, where I stumble upon words and share my uncooked thoughts"
+
+display_id = false
+display_bio = true
+display_avatar = true
+
+links = [
+  { name = "Discord", icon = "discord", url = "https://discordapp.com/users/683067375725314060" },
+  { name = "GitHub", icon = "github", url = "https://github.com/nurmohammed840/" },
+  { name = "Email", icon = "email", url = "mailto:nurmohammed840@gmail.com" },
+]
+
+recent = false
+recent_max = 5
+recent_more_text = "more »"
+
+blog_section_path = "/posts"
+sections = [
+  { name = "Posts", path = "/posts", is_external = false },
+  { name = "Projects", path = "/projects", is_external = false },
+  # { name = "About", path = "/about", is_external = false },
+]
+
+force_theme = false
+blog_categorized = false
+blur_effect = false
+back_to_top = true
+toc = false
+copy = true
+comment = false
+display_tags = true
+truncate_summary = false
+
+reaction = false
+reaction_align = "right"
+reaction_endpoint = "..."
+
+outdate_alert = false
+outdate_alert_days = 120
+outdate_alert_text_before = "This article was last updated "
+outdate_alert_text_after = " days ago and may be out of date."
+
+nav_separator = "..."
+nav_wrapper_left = ""
+nav_wrapper_right = ""
+nav_wrapper_separator = ","
+
+footer_copyright = "© 2021 Nur"
+# footer_credits = false
+
+not_found_title = "404"
+not_found_error_text = "Not Found"
+not_found_recover_text = "« back to home »"
