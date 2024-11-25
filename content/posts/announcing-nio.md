@@ -65,8 +65,7 @@ impl TaskQueue {
 
 Current [implementation](https://github.com/nurmohammed840/nio/blob/main/src/scheduler/least_loaded.rs) use `mpsc` channel, containing just 150 lines of code!
 
-This scheduling statergy is simple, fast, solve starvation and minimizes context switching
-(when a single worker can handle all tasks efficiently)
+This scheduling statergy is simple, fast, solve starvation.
 
 ## Benchmark
 
