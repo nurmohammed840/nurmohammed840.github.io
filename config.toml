@@ -35,7 +35,7 @@ anchors = "on"
 [extra]
 name = "Nur Mohammed"
 id = "Home"
-avatar = "img/avatar.jpg"
+avatar = "img/avatar.png"
 bio = "Welcome to my little corner of the web, where I stumble upon words and share my uncooked thoughts"
 
 display_id = false
