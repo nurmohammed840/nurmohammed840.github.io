@@ -46,7 +46,6 @@ impl Scheduler {
         worker.len.inc();
     }
 }
-
 ```
 
 When a new task is waken to be re-assigned,
