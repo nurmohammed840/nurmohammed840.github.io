@@ -7,6 +7,15 @@ links = [
 ]
 
 [[project]]
+name = "index-set"
+desc = "bitset implementation with support for atomic operations"
+tags = ["bitset", "data-structures"]
+links = [
+    {name = "docs", url = "https://docs.rs/index-set/latest/index_set/"},
+    {name = "src", url = "https://github.com/nurmohammed840/index-set"}
+]
+
+[[project]]
 name = "async-gen"
 desc = "Async generator in stable rust"
 tags = ["async"]
