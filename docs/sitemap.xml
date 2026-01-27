@@ -20,6 +20,10 @@
         <lastmod>2024-11-24</lastmod>
     </url>
     <url>
+        <loc>https://nurmohammed840.github.io/posts/embracing-thread-per-core-architecture/</loc>
+        <lastmod>2026-01-27</lastmod>
+    </url>
+    <url>
         <loc>https://nurmohammed840.github.io/projects/</loc>
     </url>
     <url>
@@ -30,6 +34,9 @@
     </url>
     <url>
         <loc>https://nurmohammed840.github.io/tags/io/</loc>
+    </url>
+    <url>
+        <loc>https://nurmohammed840.github.io/tags/nio/</loc>
     </url>
     <url>
         <loc>https://nurmohammed840.github.io/tags/runtime/</loc>
