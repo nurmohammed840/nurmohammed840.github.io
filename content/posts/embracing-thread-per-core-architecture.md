@@ -9,6 +9,7 @@ lang = "en"
 toc = true
 +++
 
+![img](/posts/thread-per-core.jpg)
 
 # What is *"thread-per-core"* ?
 
@@ -47,7 +48,7 @@ nio = { version = "0.1", features = ["tokio-io"] }
 
 By default, Nio implements async traits from [futures-io](https://docs.rs/futures-io/latest/futures_io/). But the optional `"tokio-io"` feature implements async traits from [`tokio::io`](https://docs.rs/tokio/latest/tokio/io).
 
-Nio now support this folloing API.
+Nio now support this following API.
 
 ## `nio::spawn_local` 
 
